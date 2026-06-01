@@ -43,7 +43,7 @@ An enterprise-grade, highly secure ToDo List RESTful API built with **Spring Boo
 > 🖼️ `![Create Todo](./screenshots/create-todo.png)`
 
 **Read Isolated User Tasks:**
-> 🖼️ `![Get All Todos](./screenshots/get-todos.png)`
+> 🖼️ `./screenshots/get-todos.png`
 
 **Update Task (With Authorization check):**
 > 🖼️ `![Update Todo](./screenshots/update-todo.png)`
