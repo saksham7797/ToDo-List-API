@@ -92,3 +92,13 @@ An enterprise-grade, highly secure ToDo List RESTful API built with **Spring Boo
 
 4. **Testing:**
     Import the API endpoints into Postman. Register a user, grab the token, set it in the Authorization header as a Bearer Token, and test the protected routes.
+
+---
+
+## 👨‍💻 Author & Credits
+
+Developed with strategic architecture and secure coding principles by **Saksham**.
+
+* **GitHub:** [@saksham7797](https://github.com/saksham7797)
+
+*If you found this architecture helpful, feel free to star ⭐ the repository!*
