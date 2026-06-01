@@ -14,7 +14,7 @@ An enterprise-grade, highly secure ToDo List RESTful API built with **Spring Boo
 
 * **Framework:** Spring Boot (Java)
 * **Security:** Spring Security, JSON Web Tokens (JWT)
-* **Database:** [Insert your DB, e.g., MySQL / PostgreSQL / H2]
+* **Database:** MySQL
 * **ORM:** Spring Data JPA / Hibernate
 * **API Testing:** Postman
 
@@ -26,30 +26,27 @@ An enterprise-grade, highly secure ToDo List RESTful API built with **Spring Boo
 
 ### 1. Authentication & Onboarding
 **Registration (Creating a new identity):**
-> 🖼️ `![Register User](insert_postman_screenshot_path_here)`
+> 🖼️ `![Register User](./screenshots/register.png)`
 
 **Login (JWT Generation):**
-> 🖼️ `![Login JWT Token](insert_postman_screenshot_path_here)`
+> 🖼️ `![Login JWT Token](./screenshots/login.png)`
 
 ### 2. User Profile Management (Protected Routes)
 **Read Profile Details:**
-> 🖼️ `![Get Profile](insert_postman_screenshot_path_here)`
+> 🖼️ `![Get Profile](./screenshots/get-profile.png)`
 
 **Update Credentials:**
-> 🖼️ `![Update Password](insert_postman_screenshot_path_here)`
+> 🖼️ `![Update Password](./screenshots/update-password.png)`
 
 ### 3. Factory Floor: Todo CRUD Operations
 **Create Task:**
-> 🖼️ `![Create Todo](insert_postman_screenshot_path_here)`
+> 🖼️ `![Create Todo](./screenshots/create-todo.png)`
 
 **Read Isolated User Tasks:**
-> 🖼️ `![Get All Todos](insert_postman_screenshot_path_here)`
+> 🖼️ `![Get All Todos](./screenshots/get-todos.png)`
 
 **Update Task (With Authorization check):**
-> 🖼️ `![Update Todo](insert_postman_screenshot_path_here)`
-
-**Security Check: IDOR Protection (403 Forbidden / Error on unauthorized delete attempt):**
-> 🖼️ `![IDOR Protection Block](insert_postman_screenshot_path_here)`
+> 🖼️ `![Update Todo](./screenshots/update-todo.png)`
 
 ---
 
