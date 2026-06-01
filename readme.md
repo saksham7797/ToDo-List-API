@@ -26,27 +26,27 @@ An enterprise-grade, highly secure ToDo List RESTful API built with **Spring Boo
 
 ### 1. Authentication & Onboarding
 **Registration (Creating a new identity):**
-> 🖼️ `![Register User](./screenshots/register.png)`
+> 🖼️ ![Register User](./screenshots/register.png)
 
 **Login (JWT Generation):**
-> 🖼️ `![Login JWT Token](./screenshots/login.png)`
+> 🖼️ ![Login JWT Token](./screenshots/login.png)
 
 ### 2. User Profile Management (Protected Routes)
 **Read Profile Details:**
-> 🖼️ `![Get Profile](./screenshots/get-profile.png)`
+> 🖼️ ![Get Profile](./screenshots/get-profile.png)
 
 **Update Credentials:**
-> 🖼️ `![Update Password](./screenshots/update-password.png)`
+> 🖼️ ![Update Password](./screenshots/update-password.png)
 
 ### 3. Factory Floor: Todo CRUD Operations
 **Create Task:**
-> 🖼️ `![Create Todo](./screenshots/create-todo.png)`
+> 🖼️ ![Create Todo](./screenshots/create-todo.png)
 
 **Read Isolated User Tasks:**
-> 🖼️ `./screenshots/get-todos.png`
+> 🖼️ ![Get All Todos](./screenshots/get-todos.png)
 
 **Update Task (With Authorization check):**
-> 🖼️ `![Update Todo](./screenshots/update-todo.png)`
+> 🖼️ ![Update Todo](./screenshots/update-todo.png)
 
 ---
 
